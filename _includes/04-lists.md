@@ -1,5 +1,5 @@
-*music
-*food
-  *rice
-  *roti
-*tv
+- music
+- food
+  - rice
+  - roti
+- tv
